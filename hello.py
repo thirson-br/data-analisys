@@ -1,1 +1,1 @@
-print("Hello, povo!!")
+print("Hello, pessoal!!")
